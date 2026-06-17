@@ -1,0 +1,10 @@
+﻿  TargetGenerator.cpp
+  main.cpp
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(108,20): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(259,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(390,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(544,104): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(550,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\Project1\main.cpp(553,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\刘秉达\Desktop\bianyi_2.0\Project1\x64\Debug\Project1.exe
