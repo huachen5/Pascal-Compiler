@@ -10,6 +10,7 @@ Pascal-Compiler & Visualizer
 全流程图形化调试面板：基于 EasyX Graphics 实时渲染词法二元组对照表、符号表、DAG 优化前后四元式对比，并动态绘制运行时活动记录（Activation Record）的栈映像。
 
 项目结构
+```text
 ├── Project1.slnx           # Visual Studio 解决方案引导文件
 └── Project1/
     └── Project1/           # 核心源码文件夹
